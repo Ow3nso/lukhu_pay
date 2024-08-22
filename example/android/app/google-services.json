@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "257334306927",
+    "project_id": "lukhu-dev",
+    "storage_bucket": "lukhu-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257334306927:android:7ea0cd44aca3cf3ecb459a",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257334306927-rbup13o5vpmr3cfnko99qk89no62canh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPr-N51X3rR1IcBFUUXgvKWTS0zIzRviI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257334306927-pppldblmlf320jrdjbk6rr69abanfg7h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "257334306927-31u90ahei4j44h7e4moru087575m8l9a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257334306927:android:af6dcee27d3bbefacb459a",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257334306927-rbup13o5vpmr3cfnko99qk89no62canh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPr-N51X3rR1IcBFUUXgvKWTS0zIzRviI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257334306927-pppldblmlf320jrdjbk6rr69abanfg7h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "257334306927-31u90ahei4j44h7e4moru087575m8l9a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257334306927:android:8eff02c269461da7cb459a",
+        "android_client_info": {
+          "package_name": "com.lukhu.mobile.app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257334306927-rbup13o5vpmr3cfnko99qk89no62canh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPr-N51X3rR1IcBFUUXgvKWTS0zIzRviI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257334306927-pppldblmlf320jrdjbk6rr69abanfg7h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "257334306927-31u90ahei4j44h7e4moru087575m8l9a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
